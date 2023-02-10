@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SISF00DN-T1")(type "Legacy")(uri "${KIPRJMOD}/Libary/ul_SISF00DN-T1-GE3/KiCAD/2023-02-05_20-01-41/2023-02-05_20-01-41.lib")(options "")(descr ""))
+  (lib (name "TPS2456")(type "Legacy")(uri "${KIPRJMOD}/Libary/ul_TPS2456ARHHR/KiCAD/2023-02-07_19-52-38/2023-02-07_19-52-38.lib")(options "")(descr ""))
+)
