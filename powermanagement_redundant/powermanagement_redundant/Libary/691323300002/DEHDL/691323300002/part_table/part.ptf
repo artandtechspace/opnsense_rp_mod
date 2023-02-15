@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '691323300002'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "691323300002" (!) = "", "691323300002", "Other", "710-691323300002", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/691323300002?qs=sPbYRqrBIVninAwyXiV%2FaQ%3D%3D", "WURTH ELEKTRONIK - 691323300002 - Terminal Block, Header, 3.81 mm, 2 Ways, 10 A, 300 V, Through Hole Vertical", "https://www.we-online.com/catalog/datasheet/691323300002.pdf", "9.4 mm"
+END_PART
+
+END.
