@@ -3921,7 +3921,7 @@
   (symbol (lib_id "Device:R") (at 326.39 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b7a5225c-c6d7-4da3-aee7-b2a202d63171)
-    (property "Reference" "R_{MON}" (at 327.66 58.42 0)
+    (property "Reference" "R_{MON}1" (at 327.66 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "6,8k" (at 327.66 60.96 0)
@@ -3938,7 +3938,7 @@
     (instances
       (project "powermanagement_redundant"
         (path "/8a7a656b-558d-4577-8c43-8c0fcd36144c"
-          (reference "R_{MON}") (unit 1)
+          (reference "R_{MON}1") (unit 1)
         )
       )
     )
