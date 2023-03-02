@@ -1,4 +1,4 @@
-21449839553115843
+21454870127946893
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59254,6 +59254,13 @@ solder jumper open
 0
 5
 3
+KiCad
+691323300002
+691323300002-2
+Connector
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -82431,6 +82438,13 @@ rotary encoder
 0
 7
 6
+SISF00DN-1
+SISF00DN-T1-GE3
+
+
+0
+8
+8
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -83985,6 +83999,13 @@ Logo WEEE
 0
 0
 0
+TPS2456
+TPS2456ARHHR
+
+
+0
+37
+37
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
