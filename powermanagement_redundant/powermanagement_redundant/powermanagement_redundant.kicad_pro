@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.499999,
+          "width": 0.499999
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -57,8 +57,6 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|116408200|33604200|b316a824-a103-4130-8038-29f18764968c|f3155193-e561-4bb7-9598-4866b98992b3",
-        "clearance|49390300|33832800|35f1efcb-dbe1-466f-9245-dd8ae6f46a35|37163e56-ed06-4532-8f17-8828d89e3bf0",
         "silk_edge_clearance|114007285|37497750|bdc146a3-43e6-4e77-8881-26b643fcd772|07c4a0ac-5a8c-40fc-9639-8352b2e30b3a",
         "silk_edge_clearance|39680535|37491556|bdc146a3-43e6-4e77-8881-26b643fcd772|13089d75-1c41-48e3-8270-85b543486ab5"
       ],
@@ -457,7 +455,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "LOAD"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "GND"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
