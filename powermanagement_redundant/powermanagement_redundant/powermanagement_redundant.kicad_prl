@@ -65,8 +65,14 @@
       39,
       40
     ],
-    "visible_layers": "ffdffbf_ffffffff",
+    "visible_layers": "800ff9f_ffffffff",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "powermanagement_redundant.kicad_prl",
