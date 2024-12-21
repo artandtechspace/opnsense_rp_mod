@@ -4474,7 +4474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "260ff7e5-ed30-42c1-83b4-d35e92d254c4")
-		(property "Reference" "C_{MON}2"
+		(property "Reference" "C_{MON}1"
 			(at 294.64 58.4199 0)
 			(effects
 				(font
@@ -4483,7 +4483,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47n"
+		(property "Value" "100n"
 			(at 294.64 60.9599 0)
 			(effects
 				(font
@@ -4528,7 +4528,7 @@
 		(instances
 			(project "powermanagement_redundant"
 				(path "/8a7a656b-558d-4577-8c43-8c0fcd36144c"
-					(reference "C_{MON}2")
+					(reference "C_{MON}1")
 					(unit 1)
 				)
 			)
